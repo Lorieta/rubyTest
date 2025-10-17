@@ -1,6 +1,6 @@
-#!/user/bin/env bash
-#Exit on error
-set -0 errexit
+#!/usr/bin/env bash
+# Exit on error
+set -o errexit
 
 bundle install
 bin/rails assets:precompile
