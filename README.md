@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+" Ruby on Rails Tutorial\n## \"hello, world!\"\nThis is the first application for the\n[*Ruby on Rails Tutorial*](https://www.railstutorial.org/)\nby [Michael Hartl](https://www.michaelhartl.com/). Hello, world!"
